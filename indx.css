@@ -1,0 +1,32 @@
+*{
+    margin: 0PX;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+    
+    
+
+a{
+    margin-left: 40px;
+    text-decoration: none;
+}
+a:hover{
+    color:red ;
+    font-size: x-large;
+    font-style: oblique;
+}
+#back{
+    
+       position: fixed;
+       background-size: cover;
+    height: 70vh;
+    width: 100vw;
+    background-image: url(img2.jpg.jpg);
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
